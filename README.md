@@ -1,7 +1,7 @@
 ## Hi, I'm Víctor 👋👋👋
 
 <p align="center">
-  <img src="https://ascii.rest/banner/hello.dark.svg?color=f97316,f778ba&shadow=rounded" />
+  <img src="<img width="816" height="740" alt="image" src="https://github.com/user-attachments/assets/9f300ad5-2b74-4ce4-9db6-00c7bf29f9ba"/>
 </p>
 
 Ecuador 🇪🇨. I'm keen on AI, machine learning, data science, competitive programming, and maths olympiad. 
